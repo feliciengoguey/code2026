@@ -11,6 +11,9 @@ Lauren Huret. [Praying for my haters](https://hek.ch/en/collection/artworks/pray
 ![En attendant les robots - Trailer](https://img.youtube.com/vi/MxqYzzmuO7k/maxresdefault.jpg)
 Natan Castay. [En attendant les robots](https://www.youtube.com/watch?v=MxqYzzmuO7k). 2024.
 
+![The CAPTACH Project](https://emiliovavarella.com/wp-content/uploads/2020/07/captchaproject-vavarella8.jpg)
+Emilio Vavarella. [The CAPTCHA Project](https://emiliovavarella.com/thecaptchaproject/). 2014
+
 ![Hyperhighways](https://www.fragment.in/site/assets/files/1658/wilde_13-01-252649_copie_4.2100x2100-ms.jpg)
 Fragmentin. [Hyperhighways](https://www.fragment.in/artworks/hyperhighway/). 2023.
 
