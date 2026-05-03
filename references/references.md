@@ -5,6 +5,12 @@
 ![The Cleaners - Trailer](https://img.youtube.com/vi/iGCGhD8i-o4/maxresdefault.jpg)
 Hans Block & Moritz Riesewieck. [The Cleaners](https://www.youtube.com/watch?v=iGCGhD8i-o4). 2018.
 
+![Praying for my haters](https://cms.hek.ch/files/images/Import/Screenshot_2020-05-19_at_22.01.28_web.jpg)
+Lauren Huret. [Praying for my haters](https://hek.ch/en/collection/artworks/praying-for-my-haters/). 2019.
+
+![En attendant les robots - Trailer](https://img.youtube.com/vi/MxqYzzmuO7k/maxresdefault.jpg)
+Natan Castay. [En attendant les robots](https://www.youtube.com/watch?v=MxqYzzmuO7k). 2024.
+
 
 ## Readings
 
