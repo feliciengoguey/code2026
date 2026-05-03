@@ -2,8 +2,9 @@
 
 ## Projects
 
-Hans Block & Moritz Riesewieck. The Cleaners. 2018.
-[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
+[!The Cleaners - Trailer](https://img.youtube.com/vi/iGCGhD8i-o4/maxresdefault.jpg)
+Hans Block & Moritz Riesewieck. [The Cleaners](https://www.youtube.com/watch?v=iGCGhD8i-o4). 2018.
+
 
 ## Readings
 
