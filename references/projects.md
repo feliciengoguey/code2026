@@ -15,5 +15,6 @@ Emilio Vavarella. [The CAPTCHA Project](https://emiliovavarella.com/thecaptchapr
 ![Hyperhighways](https://www.fragment.in/site/assets/files/1658/wilde_13-01-252649_copie_4.2100x2100-ms.jpg)
 Fragmentin. [Hyperhighways](https://www.fragment.in/artworks/hyperhighway/). 2023.
 
-
+![Beggar's Honey](https://images.squarespace-cdn.com/content/v1/6530f39f63ff995784b5f61f/383649ee-3c9a-4013-b39b-202ad2724f7e/Click+Farmer%2C+2023.jpg)
+Jack Latham. [Beggar's Honey](https://www.jacklatham.com/beggars-honey). 2023.
 
