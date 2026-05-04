@@ -18,3 +18,5 @@ Fragmentin. [Hyperhighways](https://www.fragment.in/artworks/hyperhighway/). 202
 ![Beggar's Honey](https://images.squarespace-cdn.com/content/v1/6530f39f63ff995784b5f61f/383649ee-3c9a-4013-b39b-202ad2724f7e/Click+Farmer%2C+2023.jpg)
 Jack Latham. [Beggar's Honey](https://www.jacklatham.com/beggars-honey). 2023.
 
+![Waluigi's Purgatory](https://dmstfctn.net/related-matters/waluigi-s-purgatory/content/main/half.main.WaluigisPurgatory_H.jpg)
+dmstfctn. [Waluigi's Purgatory](https://dmstfctn.net/related-matters/waluigi-s-purgatory/). 2024.
