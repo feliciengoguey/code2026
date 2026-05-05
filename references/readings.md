@@ -1,5 +1,16 @@
 # Readings
 
+## Books
+
 Antonio A. Casilli. [*En attendant les robots: Enquête sur le travail du clic*](https://www.seuil.com/ouvrage/en-attendant-les-robots-antonio-a-casilli/9782021401882). 2019.
 
 Antonio A. Casilli. [*Waiting for Robots: The Hired Hands of Automation*](https://press.uchicago.edu/ucp/books/book/chicago/W/bo239039613.html). 2025.
+
+## Articles
+
+Camille Girard-Chanudet. [“Mais l’algo, là, il va mimer nos erreurs ! ”. Contraintes et effets de l’annotation des
+données d’entraînement d’une IA](https://hal.science/hal-04648546v1/document). Réseaux : communication, technologie, société, 2023, 4 (240), pp.111-144.
+
+## News 
+
+Naipanoi Lepapa, Ahmed Abdigadir, Julia Lindblom. [Meta’s AI Smart Glasses and Data Privacy Concerns: Workers Say “We See Everything”](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything). 2026.
