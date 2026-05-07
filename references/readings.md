@@ -17,7 +17,7 @@ Reece Rogers. [I Tried RentAHuman, Where AI Agents Hired Me to Hype Their AI Sta
 
 Naipanoi Lepapa, Ahmed Abdigadir, Julia Lindblom. [Meta’s AI Smart Glasses and Data Privacy Concerns: Workers Say “We See Everything”](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything). 2026.
 
-### Documentaries & Reports
+## Documentaries & Reports
 
 Economy Media. [How AI is Pushing Tech Workers to Blue-Collar Jobs](https://www.youtube.com/watch?v=0qj3S6ucyhc). 2025.
 
