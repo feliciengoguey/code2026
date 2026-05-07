@@ -11,6 +11,8 @@ Antonio A. Casilli. [*Waiting for Robots: The Hired Hands of Automation*](https:
 Camille Girard-Chanudet. [“Mais l’algo, là, il va mimer nos erreurs ! ”. Contraintes et effets de l’annotation des
 données d’entraînement d’une IA](https://hal.science/hal-04648546v1/document). Réseaux : communication, technologie, société, 2023, 4 (240), pp.111-144.
 
+Reece Rogers. [I Tried RentAHuman, Where AI Agents Hired Me to Hype Their AI Startups](https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/). *Wired*, 12 février 2026.
+
 ## News 
 
 Naipanoi Lepapa, Ahmed Abdigadir, Julia Lindblom. [Meta’s AI Smart Glasses and Data Privacy Concerns: Workers Say “We See Everything”](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything). 2026.
