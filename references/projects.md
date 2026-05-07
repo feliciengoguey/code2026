@@ -23,3 +23,6 @@ dmstfctn. [Waluigi's Purgatory](https://dmstfctn.net/related-matters/waluigi-s-p
 
 ![Mechanical Kurds](https://img.youtube.com/vi/fmIOMysALKY/maxresdefault.jpg)
 Hito Steyerl. [Mechanical Kurds](https://www.estherschipper.com/artists/102-hito-steyerl/works/34853/). 2025.
+
+![Labor](https://www.paulvanouse.com/labor-install-BN-1.jpg)
+Paul Vanouse. [Labor](https://www.paulvanouse.com/labor.html). 2019 - ongoing.
