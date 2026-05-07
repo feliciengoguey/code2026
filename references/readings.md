@@ -26,3 +26,5 @@ ABC News (Australia). [The Click Farms Selling Fake Likes to Influencers and Pol
 ARTE. [Madagascar : les petites mains de l'IA](https://www.youtube.com/watch?v=b0a6M5SaQQM). Reportage de Jérome Levy. 2025.
 
 ARTEde. [Madagaskar: Die kleinen Helfer der KI](https://www.youtube.com/watch?v=5uQopUq4DeM). 2025.
+
+Natan Castay. [En attendant les robots](https://www.sooner.fr/films/en-attendant-les-robots). 39 min. Belgique, 2023.
