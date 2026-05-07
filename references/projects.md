@@ -20,3 +20,6 @@ Jack Latham. [Beggar's Honey](https://www.jacklatham.com/beggars-honey). 2023.
 
 ![Waluigi's Purgatory](https://dmstfctn.net/related-matters/waluigi-s-purgatory/content/main/half.main.WaluigisPurgatory_H.jpg)
 dmstfctn. [Waluigi's Purgatory](https://dmstfctn.net/related-matters/waluigi-s-purgatory/). 2024.
+
+![Mechanical Kurds](https://img.youtube.com/vi/fmIOMysALKY/maxresdefault.jpg)
+Hito Steyerl. [Mechanical Kurds](https://www.estherschipper.com/artists/102-hito-steyerl/works/34853/). 2025.
