@@ -13,6 +13,8 @@ données d’entraînement d’une IA](https://hal.science/hal-04648546v1/docume
 
 Reece Rogers. [I Tried RentAHuman, Where AI Agents Hired Me to Hype Their AI Startups](https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/). *Wired*, 12 février 2026.
 
+Varsha Bansal. [How thousands of 'overworked, underpaid' humans train Google's AI to seem smart](https://www.theguardian.com/technology/2025/sep/11/google-gemini-ai-training-humans). *The Guardian*, 11 septembre 2025.
+
 ## News 
 
 Naipanoi Lepapa, Ahmed Abdigadir, Julia Lindblom. [Meta’s AI Smart Glasses and Data Privacy Concerns: Workers Say “We See Everything”](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything). 2026.
