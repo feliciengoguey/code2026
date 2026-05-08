@@ -15,6 +15,10 @@ Reece Rogers. [I Tried RentAHuman, Where AI Agents Hired Me to Hype Their AI Sta
 
 Varsha Bansal. [How thousands of 'overworked, underpaid' humans train Google's AI to seem smart](https://www.theguardian.com/technology/2025/sep/11/google-gemini-ai-training-humans). *The Guardian*, 11 septembre 2025.
 
+Will Henshall. [Side Hustle or Scam? What to Know About Data Annotation Work](https://time.com/6962608/data-annotation-legit-tech-jobs-ai/). *Time*, 2 avril 2024.
+
+Shubhangi Goel et Effie Webb. [Inside the lucrative, surreal, and disturbing world of AI trainers](https://www.businessinsider.com/ai-training-jobs-data-annotators-labelers-outlier-scale-meta-xai-2025-9). *Business Insider*, 7 septembre 2025.
+
 ## News 
 
 Naipanoi Lepapa, Ahmed Abdigadir, Julia Lindblom. [Meta’s AI Smart Glasses and Data Privacy Concerns: Workers Say “We See Everything”](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything). 2026.
