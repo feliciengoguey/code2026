@@ -28,3 +28,7 @@ ARTE. [Madagascar : les petites mains de l'IA](https://www.youtube.com/watch?v=b
 ARTEde. [Madagaskar: Die kleinen Helfer der KI](https://www.youtube.com/watch?v=5uQopUq4DeM). 2025.
 
 Natan Castay. [En attendant les robots](https://www.sooner.fr/films/en-attendant-les-robots). 39 min. Belgique, 2023.
+
+## Social Media
+
+@0xSweep. [There's an entire economy built on fake live streams.](https://x.com/0xSweep/status/2013556520160800821). X (Twitter), 20 janvier 2026.
