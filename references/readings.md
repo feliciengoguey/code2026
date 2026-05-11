@@ -6,10 +6,14 @@ Antonio A. Casilli. [*En attendant les robots: Enquête sur le travail du clic*]
 
 Antonio A. Casilli. [*Waiting for Robots: The Hired Hands of Automation*](https://press.uchicago.edu/ucp/books/book/chicago/W/bo239039613.html). 2025.
 
-## Articles
+## Academic articles
 
 Camille Girard-Chanudet. [“Mais l’algo, là, il va mimer nos erreurs ! ”. Contraintes et effets de l’annotation des
 données d’entraînement d’une IA](https://hal.science/hal-04648546v1/document). Réseaux : communication, technologie, société, 2023, 4 (240), pp.111-144.
+
+## News 
+
+Naipanoi Lepapa, Ahmed Abdigadir, Julia Lindblom. [Meta’s AI Smart Glasses and Data Privacy Concerns: Workers Say “We See Everything”](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything). 2026.
 
 Reece Rogers. [I Tried RentAHuman, Where AI Agents Hired Me to Hype Their AI Startups](https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/). *Wired*, 12 février 2026.
 
@@ -18,10 +22,6 @@ Varsha Bansal. [How thousands of 'overworked, underpaid' humans train Google's A
 Will Henshall. [Side Hustle or Scam? What to Know About Data Annotation Work](https://time.com/6962608/data-annotation-legit-tech-jobs-ai/). *Time*, 2 avril 2024.
 
 Shubhangi Goel et Effie Webb. [Inside the lucrative, surreal, and disturbing world of AI trainers](https://www.businessinsider.com/ai-training-jobs-data-annotators-labelers-outlier-scale-meta-xai-2025-9). *Business Insider*, 7 septembre 2025.
-
-## News 
-
-Naipanoi Lepapa, Ahmed Abdigadir, Julia Lindblom. [Meta’s AI Smart Glasses and Data Privacy Concerns: Workers Say “We See Everything”](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything). 2026.
 
 ## Documentaries & Reports
 
@@ -33,7 +33,6 @@ ARTE. [Madagascar : les petites mains de l'IA](https://www.youtube.com/watch?v=b
 
 ARTEde. [Madagaskar: Die kleinen Helfer der KI](https://www.youtube.com/watch?v=5uQopUq4DeM). 2025.
 
-Natan Castay. [En attendant les robots](https://www.sooner.fr/films/en-attendant-les-robots). 39 min. Belgique, 2023.
 
 ## Social Media
 
