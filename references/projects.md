@@ -28,4 +28,4 @@ Hito Steyerl. [Mechanical Kurds](https://www.estherschipper.com/artists/102-hito
 Paul Vanouse. [Labor](https://www.paulvanouse.com/labor.html). 2019 - ongoing.
 
 ![Unseen Users](https://img2.storyblok.com/2048x/f/287172172093638/3775x2583/527869cd2d/medien_gruppe.jpg)
-!Mediengruppe Bitnik at Super Dakota, Brussels. [Unseen Users](https://www.refresh.art/reviews/unseen-users/). 2026.
+!Mediengruppe Bitnik at Super Dakota, Brussels. [Doomscroll against Techfascism](https://www.refresh.art/reviews/unseen-users/). 2026.
