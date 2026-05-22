@@ -22,7 +22,7 @@ participants: Félicien, Bernadette, Hans, Marta + Mentors: Anhjili, Lotte
 
 ## Ahnjili:
 - anytime she does a reCaptacha wondering where the data and training goes to - black box
-- book reference "The Empire of AI" Caren ... 
+- book reference "The Empire of AI" Karen Hao 
 - the internet is fluded with scams, AI making it easier to produce more scams; they're doing a lot of AB testing; it's getting harder to stand out in the masses of content - now there's a influencer with two heads to be special enough to generate views
 
 ## Lotte
