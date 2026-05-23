@@ -30,4 +30,5 @@ Paul Vanouse. [Labor](https://www.paulvanouse.com/labor.html). 2019 - ongoing.
 ![Unseen Users](https://img2.storyblok.com/2048x/f/287172172093638/3775x2583/527869cd2d/medien_gruppe.jpg)
 !Mediengruppe Bitnik at Super Dakota, Brussels. [Doomscroll against Techfascism](https://www.refresh.art/reviews/unseen-users/). 2026.
 
+![FACEMINER](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2276980/b62bc008c3a5cb06be96df1f83fc6d24392c6a9f/ss_b62bc008c3a5cb06be96df1f83fc6d24392c6a9f.1920x1080.jpg?t=1778091923)
 [FACEMINER](https://store.steampowered.com/app/2276980/FACEMINER/). 2025.
