@@ -1,3 +1,7 @@
+# CODE 2026 - Meeting 06/06/2026
+## Deadline
+- draft of project proposal
+____________________________________
 # CODE 2026 - Meeting 16/05/2026
 participants: Félicien, Bernadette, Hans, Marta + Mentors: Anhjili, Lotte
 
