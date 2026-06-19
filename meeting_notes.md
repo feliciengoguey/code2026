@@ -1,3 +1,29 @@
+# CODE 2026 - Meeting 19/06/2026
+## Félicien, Bernadette, Hans, Marta + Mentor: Lotte
+
+- focus on the story you'd like to tell - what is the user experience?
+- is it a system of itself, is it a game
+- you always unlock something with the capcha
+- could be a guiding element of the story - solve the capcha to continue the story
+- how can this become something critical? what would be the benefit for me to engage with this -> captchas in "real" life are a test to get rewarded, enter website -> that's an important part
+- there's something very poetic in the text captchas
+- the title: you prefere not to in many situations but you cannot go around -> strong title, could be part of the narrative in the installation (you have to engage to continue)
+- intentionally limit the interaction (f.e. only one button saying yes)
+- what traces do you leave? even when you don't interact
+- "thank you for your contribution" - provokes the moment that you left something but you don't know what
+- using "doubt" as a stilistic element - you don't know what happened, parallel to "where does your data go when you solve a CAPTCHA"
+- who is the entity that you're engaging with and what do they want
+	> focus on topic to specify narrative
+- psychics online: they predict what you think; use methods -> maybe the installation could make use of that, "what will the next captcha be - and then it is the expected" - use a speculative approach, the human thinks about things 
+
+
+- examples of text on screen: tag yourself / train us; your review / our revenue; your searches / teach us; proving humanity / funding AI; no ownership / no credit; $0.023 / per task
+
+- elements in installation that don't have a purpose
+	- camera taking pictures that are turned into captchas
+	- camera would create different experience, strongly related to surveillance
+____________________________________
+
 # CODE 2026 - Meeting 06/06/2026
 ## Deadline
 - draft of project proposal
