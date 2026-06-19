@@ -1,6 +1,12 @@
 # CODE 2026 - Meeting 19/06/2026
 ## Félicien, Bernadette, Hans, Marta + Mentor: Lotte
 
+## Deadlines till 27/06:
+- write small prototypes for storylines
+- set up browser based mock-up for testing storys
+- readme files with technical contrains, how to deliver images, etc.
+
+## Notes
 - focus on the story you'd like to tell - what is the user experience?
 - is it a system of itself, is it a game
 - you always unlock something with the capcha
