@@ -13,15 +13,18 @@
 - "thank you for your contribution" - provokes the moment that you left something but you don't know what
 - using "doubt" as a stilistic element - you don't know what happened, parallel to "where does your data go when you solve a CAPTCHA"
 - who is the entity that you're engaging with and what do they want
-	> focus on topic to specify narrative
+	- focus on topic to specify narrative
 - psychics online: they predict what you think; use methods -> maybe the installation could make use of that, "what will the next captcha be - and then it is the expected" - use a speculative approach, the human thinks about things 
-
-
-- examples of text on screen: tag yourself / train us; your review / our revenue; your searches / teach us; proving humanity / funding AI; no ownership / no credit; $0.023 / per task
 
 - elements in installation that don't have a purpose
 	- camera taking pictures that are turned into captchas
 	- camera would create different experience, strongly related to surveillance
+
+## Further development:
+- we will continue working with epaper screens, focussing on text
+	- examples of text on screen: tag yourself / train us; your review / our revenue; your searches / teach us; proving humanity / funding AI; no ownership / no credit; $0.023 / per task
+- let's focus 2 screens and think of the story and from there see how much screens we need
+- staged interactivity: the story is pre-programmed and doesn't change by the input of the user, yet it feels like the users input is guiding the story; play with waiting time
 ____________________________________
 
 # CODE 2026 - Meeting 06/06/2026
