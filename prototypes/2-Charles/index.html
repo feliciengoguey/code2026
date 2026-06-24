@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>3x3 Image Grid</title>
+<style>
+  html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f2f2f2;
+    font-family: sans-serif;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    grid-template-rows: repeat(3, 100px);
+    gap: 5px;
+  }
+
+  .instructions {
+    text-align: left;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: #222;
+  }
+
+  .instructions #object-name {
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    /*align-items: center;*/
+  }
+
+  .grid img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    cursor: pointer;
+    transition: opacity 2s ease;
+  }
+
+  .grid img.faded {
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  #verify-btn {
+    margin-top: 20px;
+    padding: 10px 24px;
+    font-size: 15px;
+    border: none;
+    border-radius: 4px;
+    background: #1a73e8;
+    color: white;
+    cursor: pointer;
+  }
+
+  #verify-btn:hover {
+    background: #1558b0;
+  }
+</style>
+</head>
+<body>
+
+  <div class="container">
+
+    <div class="instructions">
+      Select all images with<br>
+      <span id="object-name">...</span><br>
+      Click verify once there are none left
+    </div>
+
+    <div class="grid">
+      <img src="images/1/1.jpg" alt="Image 1">
+      <img src="images/1/2.jpg" alt="Image 2">
+      <img src="images/1/3.jpg" alt="Image 3">
+      <img src="images/1/4.jpg" alt="Image 4">
+      <img src="images/1/5.jpg" alt="Image 5">
+      <img src="images/1/6.jpg" alt="Image 6">
+      <img src="images/1/7.jpg" alt="Image 7">
+      <img src="images/1/8.jpg" alt="Image 8">
+      <img src="images/1/9.jpg" alt="Image 9">
+    </div>
+
+    <button id="verify-btn">VERIFY</button>
+
+  </div>
+
+  <script>
+    const images = document.querySelectorAll('.grid img');
+    const objectNameSpan = document.getElementById('object-name');
+    const verifyBtn = document.getElementById('verify-btn');
+
+    // Fetch the object name from object.json
+    fetch('images/1/object.json')
+      .then(response => response.json())
+      .then(data => {
+        objectNameSpan.textContent = data.object;
+      })
+      .catch(err => {
+        console.error('Could not load object.json:', err);
+        objectNameSpan.textContent = '(unknown)';
+      });
+
+    images.forEach(img => {
+      img.addEventListener('click', () => {
+        img.classList.add('faded');
+      });
+    });
+
+    verifyBtn.addEventListener('click', () => {
+      const remaining = document.querySelectorAll('.grid img:not(.faded)');
+      if (remaining.length === 0) {
+        alert('Verified! All images selected.');
+      } else {
+        alert(`Not done yet — ${remaining.length} image(s) remaining.`);
+      }
+    });
+  </script>
+
+</body>
+</html>
