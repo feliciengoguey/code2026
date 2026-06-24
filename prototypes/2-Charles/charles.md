@@ -15,4 +15,4 @@ You can add your own set of images by following these rules:
 ``` 
 
 Charles can be tested there: https://felicien.io/charles/.
-If you want to run it on your machine you need to run a local web server, something like ```python3 -m http.server``` in the folder and visit http://localhost:8000/index.html.
+If you want to run it on your machine you need to run a local web server, something like ```python3 -m http.server``` in the folder and visit http://localhost:8000/index.html
